@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SASCableAnim.cpp.obj": [
+			"BoneAnimParts.cpp.obj",
+			"SASCableAnimModule.cpp.obj",
+			"SCAnimationDataAsset.cpp.obj",
+			"SCAnimInstance.cpp.obj"
+		],
+		"Module.SASCableAnim.gen.cpp.obj": [
+			"BoneAnimParts.gen.cpp.obj",
+			"SASCableAnim.init.gen.cpp.obj",
+			"SCAnimationDataAsset.gen.cpp.obj",
+			"SCAnimInstance.gen.cpp.obj"
+		]
+	}
+}

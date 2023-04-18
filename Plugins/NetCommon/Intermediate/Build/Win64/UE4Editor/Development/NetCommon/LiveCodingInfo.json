@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NetCommon.cpp.obj": [
+			"NetCommonModule.cpp.obj",
+			"NetMessage.cpp.obj"
+		],
+		"Module.NetCommon.gen.cpp.obj": [
+			"NetCommon.init.gen.cpp.obj",
+			"NetMessage.gen.cpp.obj"
+		]
+	}
+}

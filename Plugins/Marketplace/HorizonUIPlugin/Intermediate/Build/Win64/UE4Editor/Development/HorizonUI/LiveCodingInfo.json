@@ -1,0 +1,52 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HorizonUI.cpp.obj": [
+			"HorizonButton.cpp.obj",
+			"HorizonButtonUserWidget.cpp.obj",
+			"HorizonDesignableUserWidget.cpp.obj",
+			"HorizonDialogueBlockInfo.cpp.obj",
+			"HorizonDialogueDialoguePageResult.cpp.obj",
+			"HorizonDialogueHypertextResult.cpp.obj",
+			"HorizonDialogueLineInfo.cpp.obj",
+			"HorizonDialogueMsgTextBlock.cpp.obj",
+			"HorizonDialoguePageInfo.cpp.obj",
+			"HorizonDialogueSegmentInfo.cpp.obj",
+			"HorizonDialogueSegmentInfoStyle.cpp.obj",
+			"HorizonDialogueStyleInfo.cpp.obj",
+			"HorizonFileSystem.cpp.obj",
+			"HorizonFlipbookWidget.cpp.obj",
+			"HorizonImage.cpp.obj",
+			"HorizonRadioButtonUserWidget.cpp.obj",
+			"HorizonTextBlock.cpp.obj",
+			"HorizonUIModule.cpp.obj",
+			"HorizonUserWidget.cpp.obj",
+			"HorizonWidgetFunctionLibrary.cpp.obj"
+		],
+		"Module.HorizonUI.gen.cpp.obj": [
+			"EHorizonDialogueSegmentType.gen.cpp.obj",
+			"EHorizonDialogueTextOverflowWarpMethod.gen.cpp.obj",
+			"EHorizonUIInputMode.gen.cpp.obj",
+			"HorizonButton.gen.cpp.obj",
+			"HorizonButtonUserWidget.gen.cpp.obj",
+			"HorizonDesignableUserWidget.gen.cpp.obj",
+			"HorizonDialogueBlockInfo.gen.cpp.obj",
+			"HorizonDialogueDialoguePageResult.gen.cpp.obj",
+			"HorizonDialogueHypertextResult.gen.cpp.obj",
+			"HorizonDialogueLineInfo.gen.cpp.obj",
+			"HorizonDialogueMsgTextBlock.gen.cpp.obj",
+			"HorizonDialoguePageInfo.gen.cpp.obj",
+			"HorizonDialogueSegmentInfo.gen.cpp.obj",
+			"HorizonDialogueSegmentInfoStyle.gen.cpp.obj",
+			"HorizonDialogueStyleInfo.gen.cpp.obj",
+			"HorizonFileSystem.gen.cpp.obj",
+			"HorizonFlipbookWidget.gen.cpp.obj",
+			"HorizonImage.gen.cpp.obj",
+			"HorizonRadioButtonUserWidget.gen.cpp.obj",
+			"HorizonTextBlock.gen.cpp.obj",
+			"HorizonUI.init.gen.cpp.obj",
+			"HorizonUserWidget.gen.cpp.obj",
+			"HorizonWidgetFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

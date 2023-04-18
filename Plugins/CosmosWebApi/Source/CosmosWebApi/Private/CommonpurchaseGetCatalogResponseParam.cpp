@@ -1,0 +1,3 @@
+#include "CommonpurchaseGetCatalogResponseParam.h"
+
+

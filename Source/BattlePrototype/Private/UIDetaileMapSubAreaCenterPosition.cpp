@@ -1,0 +1,2 @@
+#include "UIDetaileMapSubAreaCenterPosition.h"
+

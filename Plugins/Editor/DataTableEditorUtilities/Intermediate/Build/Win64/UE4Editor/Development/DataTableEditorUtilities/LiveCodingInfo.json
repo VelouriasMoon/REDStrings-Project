@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DataTableEditorUtilities.cpp.obj": [
+			"DataTableEditorUtilitiesBlueprintLibrary.cpp.obj",
+			"DataTableEditorUtilitiesHelper.cpp.obj",
+			"DataTableEditorUtilitiesModule.cpp.obj"
+		],
+		"Module.DataTableEditorUtilities.gen.cpp.obj": [
+			"DataTableEditorUtilities.init.gen.cpp.obj",
+			"DataTableEditorUtilitiesBlueprintLibrary.gen.cpp.obj",
+			"DataTableEditorUtilitiesTypes.gen.cpp.obj"
+		]
+	}
+}

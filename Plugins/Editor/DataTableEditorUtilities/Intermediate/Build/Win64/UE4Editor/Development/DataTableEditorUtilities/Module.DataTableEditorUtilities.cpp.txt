@@ -1,0 +1,15 @@
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Intermediate\Build\Win64\UE4Editor\Development\DataTableEditorUtilities\Definitions.DataTableEditorUtilities.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Editor/DataTableEditorUtilities/Source/DataTableEditorUtilities/Private/DataTableEditorUtilitiesBlueprintLibrary.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Source\DataTableEditorUtilities\Public\DataTableEditorUtilitiesBlueprintLibrary.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Source\DataTableEditorUtilities\Public\DataTableEditorUtilitiesTypes.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Intermediate\Build\Win64\UE4Editor\Inc\DataTableEditorUtilities\DataTableEditorUtilitiesTypes.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Intermediate\Build\Win64\UE4Editor\Inc\DataTableEditorUtilities\DataTableEditorUtilitiesBlueprintLibrary.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Source\DataTableEditorUtilities\Private\DataTableEditorUtilitiesHelper.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Editor\UnrealEd\Classes\Factories/DataTableFactory.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\DataTableFactory.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Editor/DataTableEditorUtilities/Source/DataTableEditorUtilities/Private/DataTableEditorUtilitiesHelper.cpp
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Editor\UnrealEd\Public\DataTableEditorUtils.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Editor\UnrealEd\Public\Kismet2/ListenerManager.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Editor/DataTableEditorUtilities/Source/DataTableEditorUtilities/Private/DataTableEditorUtilitiesModule.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Editor\DataTableEditorUtilities\Source\DataTableEditorUtilities\Public\DataTableEditorUtilitiesModule.h

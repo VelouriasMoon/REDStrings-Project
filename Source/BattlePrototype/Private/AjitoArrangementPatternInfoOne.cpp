@@ -1,0 +1,4 @@
+#include "AjitoArrangementPatternInfoOne.h"
+
+
+

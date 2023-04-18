@@ -1,0 +1,4 @@
+#include "BrainTalkCharaManageStruct.h"
+
+
+

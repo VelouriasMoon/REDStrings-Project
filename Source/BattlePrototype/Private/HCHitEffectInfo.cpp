@@ -1,0 +1,3 @@
+#include "HCHitEffectInfo.h"
+
+

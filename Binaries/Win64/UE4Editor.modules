@@ -1,0 +1,8 @@
+{
+	"BuildId": "1d97c43d-fd60-499d-b055-138d4e853f27",
+	"Modules": 
+	{
+		"BattlePrototype": "UE4Editor-BattlePrototype.dll",
+		"ScarletNexus": "UE4Editor-ScarletNexus.dll"
+	}
+}

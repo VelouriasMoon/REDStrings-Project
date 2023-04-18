@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VertexAnimToolsetEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Development\VertexAnimToolsetEditor\Module.VertexAnimToolsetEditor.cpp.obj"
+"D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Development\VertexAnimToolsetEditor\UE4Editor-VertexAnimToolsetEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_VertexAnimToolsetEditor

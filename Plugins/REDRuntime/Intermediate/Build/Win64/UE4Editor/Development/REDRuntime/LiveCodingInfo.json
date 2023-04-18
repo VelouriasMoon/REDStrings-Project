@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.REDRuntime.cpp.obj": [
+			"ParticleModuleLocationTrail.cpp.obj",
+			"REDRuntimeModule.cpp.obj"
+		],
+		"Module.REDRuntime.gen.cpp.obj": [
+			"ELocationTrailSource.gen.cpp.obj",
+			"ParticleModuleLocationTrail.gen.cpp.obj",
+			"REDRuntime.init.gen.cpp.obj"
+		]
+	}
+}

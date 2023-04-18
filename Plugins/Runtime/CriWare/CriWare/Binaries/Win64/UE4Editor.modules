@@ -1,0 +1,8 @@
+{
+	"BuildId": "1d97c43d-fd60-499d-b055-138d4e853f27",
+	"Modules": 
+	{
+		"CriWareEditor": "UE4Editor-CriWareEditor.dll",
+		"CriWareRuntime": "UE4Editor-CriWareRuntime.dll"
+	}
+}

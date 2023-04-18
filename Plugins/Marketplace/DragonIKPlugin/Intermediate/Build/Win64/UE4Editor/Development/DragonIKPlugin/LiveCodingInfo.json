@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DragonIKPlugin.cpp.obj": [
+			"AnimNode_DragonFeetSolver.cpp.obj",
+			"AnimNode_DragonHandSolver.cpp.obj",
+			"AnimNode_DragonSpineSolver.cpp.obj",
+			"DragonData_FootData.cpp.obj",
+			"DragonData_MultiInput.cpp.obj",
+			"DragonIK_Library.cpp.obj",
+			"DragonIKPluginModule.cpp.obj"
+		],
+		"Module.DragonIKPlugin.gen.cpp.obj": [
+			"AnimNode_DragonFeetSolver.gen.cpp.obj",
+			"AnimNode_DragonHandSolver.gen.cpp.obj",
+			"AnimNode_DragonSpineSolver.gen.cpp.obj",
+			"DragonData_FootData.gen.cpp.obj",
+			"DragonData_MultiInput.gen.cpp.obj",
+			"DragonIK_Library.gen.cpp.obj",
+			"DragonIKPlugin.init.gen.cpp.obj",
+			"EIK_Type_Plugin.gen.cpp.obj",
+			"EIKTrace_Type_Plugin.gen.cpp.obj",
+			"EInterpoLocation_Type_Plugin.gen.cpp.obj",
+			"EInterpoRotation_Type_Plugin.gen.cpp.obj",
+			"ERefPosePluginEnum.gen.cpp.obj"
+		]
+	}
+}

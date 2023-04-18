@@ -1,0 +1,2 @@
+#include "TmpGuildMemberInfo.h"
+

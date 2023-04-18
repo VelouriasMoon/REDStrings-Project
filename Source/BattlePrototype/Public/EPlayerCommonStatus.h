@@ -1,0 +1,31 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EPlayerCommonStatus.generated.h"
+
+UENUM(BlueprintType)
+enum class EPlayerCommonStatus : uint8 {
+    EVENT,
+    BATTLE,
+    OPEN_BRAINFIELD,
+    BATTLE_READY,
+    OPEN_CAPTUREFIELD,
+    EXIST_TARGET_ACTOR_TO_MOVEDIR,
+    MOVE_DEAD_END,
+    AI_USE_ADD_MOVE_INPUT,
+    ACCUMLATED_BRAINCRASH,
+    EVENT_MOVE,
+    DISABLE_INPUT_BUTTON,
+    RESERVE_WALK_MAXSPEED,
+    DEAD,
+    PSYCHIC_OBJECT_READY,
+    ATTACK_BEHAVIOR_ON_GROUND,
+    REQUEST_ALLOWANCE,
+    DRIVE_SEQUENCE,
+    AREA_CHANGE,
+    AJITO_MODE,
+    CHILD_YUITO,
+    DISABLE_MOVEMENT_FLYING,
+    EXEC_TELEPO,
+    TALK_EVENT,
+};
+

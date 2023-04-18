@@ -1,0 +1,4 @@
+#include "CommonpurchaseTokushoResponseParam.h"
+
+
+

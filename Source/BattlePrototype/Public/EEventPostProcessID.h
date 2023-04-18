@@ -1,0 +1,47 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EEventPostProcessID.generated.h"
+
+UENUM(BlueprintType)
+enum class EEventPostProcessID : uint8 {
+    PPM_Accelerator,
+    PPM_SeeThrough,
+    PPM_VisionFog,
+    PPM_RadialBlur,
+    PPM_Sepia,
+    PPM_Mono,
+    PPM_Glitch,
+    PPM_VignetteMask,
+    PPM_ScreenLight,
+    PPM_ScreenMask,
+    PPM_ScreenMask_GradFilter,
+    PPM_SoftFocus,
+    PPM_HeartBeat,
+    PPM_LightShaft,
+    PPM_AlphaMovie,
+    PPM_AnimeBlur,
+    PPM_FieldBlur,
+    PPM_FishEye,
+    PPM_ScreenMask_AfterDOF,
+    PPM_ScreenMask_GradFilter_AfterDOF,
+    PPM_KaiiFilter,
+    PPM_BothSideLim,
+    PPM_LightUp,
+    PPM_FuturePrediction,
+    PPM_OutlineAfterimage,
+    PPM_Diffusion,
+    PPM_Shadowmap,
+    PPM_Stream,
+    PPM_KarenMemory,
+    PPM_REDStringsSignACBeat,
+    PPM_REDStringsSignBearding,
+    PPM_REDStringsSignDotCraw,
+    PPM_REDStringsSignDropout,
+    PPM_REDStringsSignGhosting,
+    PPM_REDStringsSignStrobing,
+    PPM_REDStringsSignTapeDistortion,
+    PPM_REDStringsSignYIQManipulation,
+    PPM_REDStringsSignTapeDistortionVertical,
+    PPM_MAX UMETA(Hidden),
+};
+

@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RMAFoliageTools.cpp.obj": [
+			"RMAFoliageToolsBlueprintFunctionLibrary.cpp.obj",
+			"RMAFoliageToolsFoliageBuffer.cpp.obj",
+			"RMAFoliageToolsModule.cpp.obj"
+		],
+		"Module.RMAFoliageTools.gen.cpp.obj": [
+			"ERMAFoliageToolsFoliageSelectionMode.gen.cpp.obj",
+			"RMAFoliageTools.init.gen.cpp.obj",
+			"RMAFoliageToolsBlueprintFunctionLibrary.gen.cpp.obj",
+			"RMAFoliageToolsFoliageBuffer.gen.cpp.obj"
+		]
+	}
+}

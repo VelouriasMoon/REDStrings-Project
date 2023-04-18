@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KawaiiPhysics.cpp.obj": [
+			"AnimNode_KawaiiPhysics.cpp.obj",
+			"KawaiiPhysics.cpp.obj",
+			"KawaiiPhysicsLimitsDataAsset.cpp.obj"
+		],
+		"Module.KawaiiPhysics.gen.cpp.obj": [
+			"AnimNode_KawaiiPhysics.gen.cpp.obj",
+			"KawaiiPhysics.init.gen.cpp.obj",
+			"KawaiiPhysicsLimitsDataAsset.gen.cpp.obj"
+		]
+	}
+}

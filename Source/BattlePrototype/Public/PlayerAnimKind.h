@@ -1,0 +1,45 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "PlayerAnimKind.generated.h"
+
+UENUM(BlueprintType)
+enum class PlayerAnimKind : uint8 {
+    IdleWalkRun,
+    BoringIdle,
+    Damage,
+    Dead,
+    Step,
+    Fall,
+    Land,
+    Attack,
+    StartBattle,
+    EndBattle,
+    Jump,
+    AirJump,
+    Recover,
+    Psychic,
+    Sprint,
+    Brake,
+    JumpStepIn,
+    StepEnd,
+    BlowFall,
+    BlowLanding,
+    Down,
+    WakeUp,
+    UseItem,
+    StartSprint,
+    BrainCrash,
+    Drive,
+    ResurrectBegin,
+    Resurrect,
+    ResurrectEnd,
+    Revive,
+    SprintTurnBack,
+    LaunchFall,
+    Event,
+    TalkTurn,
+    SasLink,
+    NumKind,
+    Invalid = 0xFF,
+};
+

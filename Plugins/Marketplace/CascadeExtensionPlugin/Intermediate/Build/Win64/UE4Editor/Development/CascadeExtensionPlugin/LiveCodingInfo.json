@@ -1,0 +1,56 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CascadeExtensionPlugin.cpp.obj": [
+			"AbstractParticleModule.cpp.obj",
+			"CascadeExtensionPluginModule.cpp.obj",
+			"ForcePoints.cpp.obj",
+			"MeshTriangleData.cpp.obj",
+			"ParticleDecalComponent.cpp.obj",
+			"ParticleModuleColorTexture.cpp.obj",
+			"ParticleModuleCustomData.cpp.obj",
+			"ParticleModuleDecalComponent.cpp.obj",
+			"ParticleModuleForcePoints.cpp.obj",
+			"ParticleModuleLocationDonut.cpp.obj",
+			"ParticleModuleLocationHeightmap.cpp.obj",
+			"ParticleModuleLocationJiggle.cpp.obj",
+			"ParticleModuleLocationMesh.cpp.obj",
+			"ParticleModuleLocationSpiral.cpp.obj",
+			"ParticleModuleSizeBySpeedOverTime.cpp.obj",
+			"ParticleModuleSortOrder.cpp.obj",
+			"ParticleModuleSwarmMovement.cpp.obj",
+			"ParticleModuleVelocityTurbulence.cpp.obj",
+			"ParticleProperties.cpp.obj",
+			"RSMeshDataProviderFL.cpp.obj",
+			"TriangleIndices.cpp.obj"
+		],
+		"Module.CascadeExtensionPlugin.gen.cpp.obj": [
+			"AbstractParticleModule.gen.cpp.obj",
+			"CascadeExtensionPlugin.init.gen.cpp.obj",
+			"EDistanceWeight.gen.cpp.obj",
+			"ESpaceAxis.gen.cpp.obj",
+			"ForcePointDataProvider.gen.cpp.obj",
+			"ForcePoints.gen.cpp.obj",
+			"MeshDataProvider.gen.cpp.obj",
+			"MeshTriangleData.gen.cpp.obj",
+			"ParticleDataProvider.gen.cpp.obj",
+			"ParticleDecalComponent.gen.cpp.obj",
+			"ParticleModuleColorTexture.gen.cpp.obj",
+			"ParticleModuleCustomData.gen.cpp.obj",
+			"ParticleModuleDecalComponent.gen.cpp.obj",
+			"ParticleModuleForcePoints.gen.cpp.obj",
+			"ParticleModuleLocationDonut.gen.cpp.obj",
+			"ParticleModuleLocationHeightmap.gen.cpp.obj",
+			"ParticleModuleLocationJiggle.gen.cpp.obj",
+			"ParticleModuleLocationMesh.gen.cpp.obj",
+			"ParticleModuleLocationSpiral.gen.cpp.obj",
+			"ParticleModuleSizeBySpeedOverTime.gen.cpp.obj",
+			"ParticleModuleSortOrder.gen.cpp.obj",
+			"ParticleModuleSwarmMovement.gen.cpp.obj",
+			"ParticleModuleVelocityTurbulence.gen.cpp.obj",
+			"ParticleProperties.gen.cpp.obj",
+			"RSMeshDataProviderFL.gen.cpp.obj",
+			"TriangleIndices.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,4 @@
+#include "AjitoArrangementPatternCondition.h"
+
+
+

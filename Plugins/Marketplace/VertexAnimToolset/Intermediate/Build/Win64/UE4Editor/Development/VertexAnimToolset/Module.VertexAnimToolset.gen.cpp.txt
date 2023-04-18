@@ -1,0 +1,7 @@
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Development\VertexAnimToolset\Definitions.VertexAnimToolset.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Marketplace/VertexAnimToolset/Intermediate/Build/Win64/UE4Editor/Inc/VertexAnimToolset/VertexAnimProfile.gen.cpp
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\VertexAnimToolset\Source\VertexAnimToolset/Public/VertexAnimProfile.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Inc\VertexAnimToolset\VertexAnimProfile.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Marketplace/VertexAnimToolset/Intermediate/Build/Win64/UE4Editor/Inc/VertexAnimToolset/VertexAnimToolset.init.gen.cpp

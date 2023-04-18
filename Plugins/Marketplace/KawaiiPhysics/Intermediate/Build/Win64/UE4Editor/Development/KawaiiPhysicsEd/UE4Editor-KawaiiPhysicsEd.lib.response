@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KawaiiPhysicsEd.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\KawaiiPhysics\Intermediate\Build\Win64\UE4Editor\Development\KawaiiPhysicsEd\Module.KawaiiPhysicsEd.cpp.obj"
+"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\KawaiiPhysics\Intermediate\Build\Win64\UE4Editor\Development\KawaiiPhysicsEd\Module.KawaiiPhysicsEd.gen.cpp.obj"
+"D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Marketplace\KawaiiPhysics\Intermediate\Build\Win64\UE4Editor\Development\KawaiiPhysicsEd\UE4Editor-KawaiiPhysicsEd.lib"
+/INCLUDE:IMPLEMENT_MODULE_KawaiiPhysicsEd

@@ -1,0 +1,46 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CriWareEditor.cpp.obj": [
+			"ActorFactoryAtomSound.cpp.obj",
+			"ActorFactoryAtomSoundData.cpp.obj",
+			"AssetTypeActions_Atom3dRegion.cpp.obj",
+			"AssetTypeActions_AtomAudioVolumeSettings.cpp.obj",
+			"AssetTypeActions_SoundAtomConfig.cpp.obj",
+			"AssetTypeActions_SoundAtomCue.cpp.obj",
+			"AssetTypeActions_SoundAtomCueSheet.cpp.obj",
+			"Atom3dRegionFactory.cpp.obj",
+			"Atom3dSourceComponentVisualizer.cpp.obj",
+			"AtomAudioVolumeSettingsFactory.cpp.obj",
+			"AtomComponentVisualizer.cpp.obj",
+			"AtomConfigFactory.cpp.obj",
+			"AtomCueDetailsCustomization.cpp.obj",
+			"AtomCueSheetDetailsCustomization.cpp.obj",
+			"AtomPreviewer.cpp.obj",
+			"CriWareEditorModule.cpp.obj",
+			"CriWareEditorSettings.cpp.obj",
+			"CriWareEditorStyle.cpp.obj",
+			"CriWarePluginSettingsDetails.cpp.obj",
+			"CriWarePreviewer.cpp.obj",
+			"SoundAtomCueSheetImportOptions.cpp.obj",
+			"SAtomCueSheetFactoryDialog.cpp.obj",
+			"SoundAtomCueFactory.cpp.obj",
+			"SoundAtomCueSheetFactory.cpp.obj",
+			"SoundAtomCueThumbnailRenderer.cpp.obj"
+		],
+		"Module.CriWareEditor.gen.cpp.obj": [
+			"ActorFactoryAtomSound.gen.cpp.obj",
+			"ActorFactoryAtomSoundData.gen.cpp.obj",
+			"Atom3dRegionFactory.gen.cpp.obj",
+			"AtomAudioVolumeSettingsFactory.gen.cpp.obj",
+			"AtomConfigFactory.gen.cpp.obj",
+			"CriWareEditor.init.gen.cpp.obj",
+			"CriWareEditorSettings.gen.cpp.obj",
+			"CriWarePreviewer.gen.cpp.obj",
+			"SoundAtomCueFactory.gen.cpp.obj",
+			"SoundAtomCueSheetFactory.gen.cpp.obj",
+			"SoundAtomCueSheetImportOptions.gen.cpp.obj",
+			"SoundAtomCueThumbnailRenderer.gen.cpp.obj"
+		]
+	}
+}

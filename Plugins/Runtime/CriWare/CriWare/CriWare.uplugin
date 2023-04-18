@@ -1,0 +1,43 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.29.00.01",
+	"FriendlyName" : "CRIWARE Plugin",
+	"Description" : "CRIWARE Plugin for Unreal Engine 4",
+	"Category" : "CriWare",
+	"CreatedBy" : "CRI Middleware Co., Ltd.",
+	"CreatedByURL" : "http://www.cri-mw.co.jp/",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : true,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "CriWareRuntime",
+			"Type" : "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name" : "CriWareEditor",
+			"Type" : "Editor",
+			"LoadingPhase" : "PostEngineInit"
+		} 
+		,
+		{
+			"Name": "CriWareApple",
+			"Type": "RuntimeNoCommandlet",
+			"LoadingPhase": "PostConfigInit",
+			"WhitelistPlatforms": [ "Mac", "IOS", "TVOS" ]
+		},
+		{
+			"Name": "CriWareAndroid",
+			"Type": "RuntimeNoCommandlet",
+			"LoadingPhase": "PostConfigInit",
+			"WhitelistPlatforms": [ "Android" ]
+		}
+	]
+}

@@ -1,0 +1,3 @@
+#include "FEventFacialCaptureRenderSettingsTable.h"
+
+

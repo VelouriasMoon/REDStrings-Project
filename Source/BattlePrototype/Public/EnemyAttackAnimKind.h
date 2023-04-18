@@ -1,0 +1,48 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EnemyAttackAnimKind.generated.h"
+
+UENUM(BlueprintType)
+enum class EnemyAttackAnimKind : uint8 {
+    Attack1,
+    Attack2,
+    Attack3,
+    Attack4,
+    Attack5,
+    Attack6,
+    Attack7,
+    Attack8,
+    Attack9,
+    Attack10,
+    Attack11,
+    Attack12,
+    Attack13,
+    Attack14,
+    Attack15,
+    Attack16,
+    Attack17,
+    Attack18,
+    Attack19,
+    Attack20,
+    Attack21,
+    Attack22,
+    Attack23,
+    Attack24,
+    Attack25,
+    Attack26,
+    Attack27,
+    Attack28,
+    Attack29,
+    Attack30,
+    Attack31,
+    Attack32,
+    Attack33,
+    Attack34,
+    Attack35,
+    Attack36,
+    Attack37,
+    Attack38,
+    Attack39,
+    Attack40,
+};
+

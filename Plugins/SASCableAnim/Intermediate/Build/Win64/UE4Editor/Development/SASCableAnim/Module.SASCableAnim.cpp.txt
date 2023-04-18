@@ -1,0 +1,11 @@
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Intermediate\Build\Win64\UE4Editor\Development\SASCableAnim\Definitions.SASCableAnim.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/SASCableAnim/Source/SASCableAnim/Private/BoneAnimParts.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Source\SASCableAnim\Public\BoneAnimParts.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Intermediate\Build\Win64\UE4Editor\Inc\SASCableAnim\BoneAnimParts.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/SASCableAnim/Source/SASCableAnim/Private/SASCableAnimModule.cpp
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/SASCableAnim/Source/SASCableAnim/Private/SCAnimationDataAsset.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Source\SASCableAnim\Public\SCAnimationDataAsset.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Intermediate\Build\Win64\UE4Editor\Inc\SASCableAnim\SCAnimationDataAsset.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/SASCableAnim/Source/SASCableAnim/Private/SCAnimInstance.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Source\SASCableAnim\Public\SCAnimInstance.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\SASCableAnim\Intermediate\Build\Win64\UE4Editor\Inc\SASCableAnim\SCAnimInstance.generated.h

@@ -1,0 +1,4 @@
+#include "CommonpurchaseStartPurchaseResponseParam.h"
+
+
+

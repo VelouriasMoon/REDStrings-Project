@@ -1,0 +1,2 @@
+#include "BattleSimulatorPostingConditions.h"
+

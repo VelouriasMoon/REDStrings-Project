@@ -1,0 +1,94 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CriWareRuntime.1_of_3.cpp.obj": [
+			"Atom3dRegion.cpp.obj",
+			"Atom3dTransceiverComponent.cpp.obj",
+			"AtomActiveSound.cpp.obj",
+			"AtomAreaSoundVolume.cpp.obj",
+			"AtomAsrRack.cpp.obj",
+			"AtomAudioVolume.cpp.obj",
+			"AtomAudioVolumeHandler.cpp.obj",
+			"AtomAudioVolumeHandlerForListener.cpp.obj",
+			"AtomBusSampler.cpp.obj",
+			"AtomCallbackManager.cpp.obj",
+			"AtomCategory.cpp.obj",
+			"AtomComponent.cpp.obj",
+			"AtomComponentPool.cpp.obj",
+			"AtomDisposer.cpp.obj",
+			"AtomListener.cpp.obj",
+			"AtomListenerFocusPoint.cpp.obj",
+			"AtomParameterComponent.cpp.obj",
+			"AtomPerformanceMonitor.cpp.obj",
+			"AtomPlaylist.cpp.obj",
+			"AtomProfileData.cpp.obj",
+			"AtomSound.cpp.obj"
+		],
+		"Module.CriWareRuntime.2_of_3.cpp.obj": [
+			"AtomSoundConcurrency.cpp.obj",
+			"AtomSoundData.cpp.obj",
+			"AtomSoundManager.cpp.obj",
+			"AtomSoundObject.cpp.obj",
+			"AtomStatics.cpp.obj",
+			"AtomTriggerTableFunctionLibrary.cpp.obj",
+			"AtomUnrealSoundRenderer.cpp.obj",
+			"AtomWavePlayer.cpp.obj",
+			"CriWareApi.cpp.obj",
+			"CriWareError.cpp.obj",
+			"CriWareFileIo.cpp.obj",
+			"CriWareFunctionLibrary.cpp.obj",
+			"CriWareInitializer.cpp.obj",
+			"CriWareLocalization.cpp.obj",
+			"CriWareMemory.cpp.obj",
+			"CriWarePluginSettings.cpp.obj"
+		],
+		"Module.CriWareRuntime.3_of_3.cpp.obj": [
+			"CriWareRuntimeModule.cpp.obj",
+			"CriWareRuntimeSubModules.cpp.obj",
+			"SoundAtomConfig.cpp.obj",
+			"SoundAtomCue.cpp.obj",
+			"SoundAtomCueSheet.cpp.obj"
+		],
+		"Module.CriWareRuntime.gen.1_of_4.cpp.obj": [
+			"Atom3dRegion.gen.cpp.obj",
+			"Atom3dTransceiverComponent.gen.cpp.obj",
+			"AtomAisac.gen.cpp.obj",
+			"AtomAreaSoundVolume.gen.cpp.obj",
+			"AtomAsrRack.gen.cpp.obj",
+			"AtomAudioVolume.gen.cpp.obj",
+			"AtomBusSampler.gen.cpp.obj",
+			"AtomCallbackManager.gen.cpp.obj"
+		],
+		"Module.CriWareRuntime.gen.2_of_4.cpp.obj": [
+			"AtomCategory.gen.cpp.obj",
+			"AtomComponent.gen.cpp.obj"
+		],
+		"Module.CriWareRuntime.gen.3_of_4.cpp.obj": [
+			"AtomComponentPool.gen.cpp.obj",
+			"AtomDataTables.gen.cpp.obj",
+			"AtomDisposer.gen.cpp.obj",
+			"AtomListener.gen.cpp.obj",
+			"AtomListenerFocusPoint.gen.cpp.obj",
+			"AtomParameterComponent.gen.cpp.obj",
+			"AtomProfileData.gen.cpp.obj",
+			"AtomSound.gen.cpp.obj",
+			"AtomSoundData.gen.cpp.obj",
+			"AtomSoundManager.gen.cpp.obj",
+			"AtomSoundObject.gen.cpp.obj",
+			"AtomStatics.gen.cpp.obj"
+		],
+		"Module.CriWareRuntime.gen.4_of_4.cpp.obj": [
+			"AtomTriggerTableFunctionLibrary.gen.cpp.obj",
+			"AtomUnrealSoundRenderer.gen.cpp.obj",
+			"AtomWavePlayer.gen.cpp.obj",
+			"CriWareError.gen.cpp.obj",
+			"CriWareFunctionLibrary.gen.cpp.obj",
+			"CriWareInitializer.gen.cpp.obj",
+			"CriWarePluginSettings.gen.cpp.obj",
+			"CriWareRuntime.init.gen.cpp.obj",
+			"SoundAtomConfig.gen.cpp.obj",
+			"SoundAtomCue.gen.cpp.obj",
+			"SoundAtomCueSheet.gen.cpp.obj"
+		]
+	}
+}

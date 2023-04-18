@@ -1,0 +1,4 @@
+#include "AjitoMemberInfo.h"
+
+
+

@@ -1,0 +1,1757 @@
+﻿# CriWare English translation.
+# Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: CriWare\n"
+"POT-Creation-Date: 2016-10-06 11:21\n"
+"PO-Revision-Date: 2016-10-06 11:21\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	AtomSoundDataDisplayName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/ActorFactoryAtomSoundData.cpp:67
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/ActorFactoryAtomSoundData.cpp:67
+msgctxt "ActorFactory"
+msgid "AtomSoundData"
+msgstr "AtomSoundData"
+
+#. Key:	AtomSoundDisplayName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/ActorFactoryAtomSound.cpp:68
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/ActorFactoryAtomSound.cpp:68
+msgctxt "ActorFactory"
+msgid "AtomSound"
+msgstr "AtomSound"
+
+#. Key:	AssetTypeActions_ManaTexture
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_ManaTexture.h:52
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_ManaTexture.h:52
+msgctxt "AssetTypeActions"
+msgid "Sofdec2 Movie Texture"
+msgstr "Sofdec2 Movie Texture"
+
+#. Key:	AssetTypeActions_SoundAtomConfig
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomConfig.h:52
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomConfig.h:52
+msgctxt "AssetTypeActions"
+msgid "Atom Config"
+msgstr "Atom Config"
+
+#. Key:	AssetTypeActions_SoundAtomCue
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCue.h:52
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCue.h:52
+msgctxt "AssetTypeActions"
+msgid "Atom Cue"
+msgstr "Atom Cue"
+
+#. Key:	AssetTypeActions_SoundAtomCueSheet
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCueSheet.h:52
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCueSheet.h:52
+msgctxt "AssetTypeActions"
+msgid "Atom Cue Sheet"
+msgstr "Atom Cue Sheet"
+
+#. Key:	ReimportAtomConfigLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomConfig.cpp:69
+#. Key:	ReimportAtomCueSheetLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCueSheet.cpp:71
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomConfig.cpp:69
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCueSheet.cpp:71
+msgctxt "AssetTypeActions"
+msgid "Reimport"
+msgstr "Reimport"
+
+#. Key:	ReimportAtomConfigTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomConfig.cpp:70
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomConfig.cpp:70
+msgctxt "AssetTypeActions"
+msgid "Reimport the selected AtomConfig(s)."
+msgstr "Reimport the selected AtomConfig(s)."
+
+#. Key:	ReimportAtomCueSheetTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCueSheet.cpp:72
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_SoundAtomCueSheet.cpp:72
+msgctxt "AssetTypeActions"
+msgid "Reimport the selected AtomCueSheet(s)."
+msgstr "Reimport the selected AtomCueSheet(s)."
+
+#. Key:	Texture_CreateMaterial
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_ManaTexture.cpp:79
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_ManaTexture.cpp:79
+msgctxt "AssetTypeActions"
+msgid "Create Material"
+msgstr "Create Material"
+
+#. Key:	Texture_CreateMaterialTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_ManaTexture.cpp:80
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AssetTypeActions_ManaTexture.cpp:80
+msgctxt "AssetTypeActions"
+msgid "Creates a new material using this texture."
+msgstr "Creates a new material using this texture."
+
+#. Key:	AttenuationOverrides
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:155
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:155
+msgctxt "AtomComponent"
+msgid "Attenuation Overrides"
+msgstr "Attenuation Overrides"
+
+#. Key:	AttenuationOverridesTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:156
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:156
+msgctxt "AtomComponent"
+msgid "Attenuation overrides."
+msgstr "Attenuation overrides."
+
+#. Key:	AttenuationSettings
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:147
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:147
+msgctxt "AtomComponent"
+msgid "Attenuation Settings"
+msgstr "Attenuation Settings"
+
+#. Key:	AttenuationSettingsTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:148
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:148
+msgctxt "AtomComponent"
+msgid "Attenuation settings for asset."
+msgstr "Attenuation settings for asset."
+
+#. Key:	bAutoDestroy
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:115
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:115
+msgctxt "AtomComponent"
+msgid "Auto Destroy"
+msgstr "Auto Destroy"
+
+#. Key:	bAutoDestroyTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:116
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:116
+msgctxt "AtomComponent"
+msgid "Auto destroy."
+msgstr "Destroy the component at the end of the playing."
+
+#. Key:	bEnableMultipleSoundPlayback
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:131
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:131
+msgctxt "AtomComponent"
+msgid "Enable Multiple Sound Playback"
+msgstr "Enable Multiple Sound Playback"
+
+#. Key:	bEnableMultipleSoundPlaybackTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:132
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:132
+msgctxt "AtomComponent"
+msgid "Enable multiple sound playback."
+msgstr "Enable multiple sound playback."
+
+#. Key:	bIsUISound
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:123
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:123
+msgctxt "AtomComponent"
+msgid "Is UI Sound"
+msgstr "Is UI Sound"
+
+#. Key:	bIsUISoundTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:124
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:124
+msgctxt "AtomComponent"
+msgid "Is UI sound?"
+msgstr "Event if not in game, enable playing with UI such in Persona Editor."
+
+#. Key:	bOverrideAttenuation
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:151
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:151
+msgctxt "AtomComponent"
+msgid "Override Attenuation"
+msgstr "Override Attenuation"
+
+#. Key:	bOverrideAttenuationTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:152
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:152
+msgctxt "AtomComponent"
+msgid "Enable attenuation settings."
+msgstr "Enable distance attenuation settings in the component."
+
+#. Key:	bStopWhenOwnerDestroyed
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:119
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:119
+msgctxt "AtomComponent"
+msgid "Stop When Owner Destroyed"
+msgstr "Stop When Owner Destroyed"
+
+#. Key:	bStopWhenOwnerDestroyedTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:120
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:120
+msgctxt "AtomComponent"
+msgid "Stop when owner destroyed."
+msgstr "Stop when owner destroyed."
+
+#. Key:	DefaultAisacControl
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:143
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:143
+msgctxt "AtomComponent"
+msgid "AISAC Control"
+msgstr "AISAC Control"
+
+#. Key:	DefaultAisacControlTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:144
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:144
+msgctxt "AtomComponent"
+msgid "AISAC control."
+msgstr "Default AISAC setting."
+
+#. Key:	DefaultBlockIndex
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:139
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:139
+msgctxt "AtomComponent"
+msgid "Block Index"
+msgstr "Block Index"
+
+#. Key:	DefaultBlockIndexTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:140
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:140
+msgctxt "AtomComponent"
+msgid "Block index."
+msgstr "Default block index."
+
+#. Key:	DefaultSoundObject
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:135
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:135
+msgctxt "AtomComponent"
+msgid "Sound Object"
+msgstr "Sound Object"
+
+#. Key:	DefaultSoundObjectTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:136
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:136
+msgctxt "AtomComponent"
+msgid "Sound object."
+msgstr "Sound object."
+
+#. Key:	DefaultVolume
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:127
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:127
+msgctxt "AtomComponent"
+msgid "Volume Multiplier"
+msgstr "Volume Multiplier"
+
+#. Key:	DefaultVolumeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:128
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:128
+msgctxt "AtomComponent"
+msgid "Volume multiplier."
+msgstr "Default volume multiplier."
+
+#. Key:	FAtomAisacControlParam
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:76
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:76
+msgctxt "AtomComponent"
+msgid "AtomAisacControlParam struct."
+msgstr "AtomAisacControlParam struct."
+
+#. Key:	FAtomAisacControlParam.Name
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:82
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:82
+msgctxt "AtomComponent"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	FAtomAisacControlParam.NameTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:83
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:83
+msgctxt "AtomComponent"
+msgid "Name."
+msgstr "AISAC control name."
+
+#. Key:	FAtomAisacControlParam.Value
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:86
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:86
+msgctxt "AtomComponent"
+msgid "Value"
+msgstr "Value"
+
+#. Key:	FAtomAisacControlParam.ValueTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:87
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:87
+msgctxt "AtomComponent"
+msgid "Value."
+msgstr "AISAC control value."
+
+#. Key:	IsPaused()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:185
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:185
+msgctxt "AtomComponent"
+msgid "Is paused?"
+msgstr "Is playback paused?"
+
+#. Key:	IsPlaying()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:188
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:188
+msgctxt "AtomComponent"
+msgid "Is playing?"
+msgstr "Is playback playing?"
+
+#. Key:	Pause()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:182
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:182
+msgctxt "AtomComponent"
+msgid "Pause playing."
+msgstr "Pause playing."
+
+#. Key:	Play()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:176
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:176
+msgctxt "AtomComponent"
+msgid "Start playing."
+msgstr "Start playing."
+
+#. Key:	SetAisacByName()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:197
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:197
+msgctxt "AtomComponent"
+msgid "Set Aisac by name."
+msgstr "Set Aisac by name."
+
+#. Key:	SetBusSendLevel()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:200
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:200
+msgctxt "AtomComponent"
+msgid "Set bus send level."
+msgstr "Set bus send level."
+
+#. Key:	SetBusSendLevelOffset()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:203
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:203
+msgctxt "AtomComponent"
+msgid "Set bus send level offset."
+msgstr "Set bus send level offset."
+
+#. Key:	SetNextBlockIndex()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:206
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:206
+msgctxt "AtomComponent"
+msgid "Set next block index."
+msgstr "Set next block index."
+
+#. Key:	SetPitch()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:194
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:194
+msgctxt "AtomComponent"
+msgid "Set pitch."
+msgstr "Set pitch."
+
+#. Key:	SetSelectorLabel()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:209
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:209
+msgctxt "AtomComponent"
+msgid "Set selector label."
+msgstr "Set selector label."
+
+#. Key:	SetSound()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:173
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:173
+msgctxt "AtomComponent"
+msgid "Set sound."
+msgstr "Set sound."
+
+#. Key:	SetVolume()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:191
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:191
+msgctxt "AtomComponent"
+msgid "Set volume."
+msgstr "Set volume."
+
+#. Key:	Sound
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:111
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:111
+msgctxt "AtomComponent"
+msgid "Sound"
+msgstr "Sound"
+
+#. Key:	SoundTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:112
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:112
+msgctxt "AtomComponent"
+msgid "Sound data."
+msgstr "Sound data."
+
+#. Key:	Stop()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:179
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:179
+msgctxt "AtomComponent"
+msgid "Stop playing."
+msgstr "Stop playing."
+
+#. Key:	UAtomComponent
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:105
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomComponent.cpp:105
+msgctxt "AtomComponent"
+msgid "AtomComponent class."
+msgstr "AtomComponent class."
+
+#. Key:	AcbDataHandlingSection
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:187
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:187
+msgctxt "AtomCueSheetDetailsCustomization"
+msgid "Acb Data Handling"
+msgstr "Acb Data Handling"
+
+#. Key:	ContainButtonLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:198
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:198
+msgctxt "AtomCueSheetDetailsCustomization"
+msgid "Contain"
+msgstr "Contain"
+
+#. Key:	ContainButtonTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:199
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:199
+msgctxt "AtomCueSheetDetailsCustomization"
+msgid "Contain ACB data into the uasset."
+msgstr "Contain ACB data into the uasset."
+
+#. Key:	RemoveButtonLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:206
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:206
+msgctxt "AtomCueSheetDetailsCustomization"
+msgid "Remove"
+msgstr "Remove"
+
+#. Key:	RemoveButtonTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:207
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomCueSheetDetailsCustomization.cpp:207
+msgctxt "AtomCueSheetDetailsCustomization"
+msgid "Remove ACB data from the uasset. (To use this uasset, external ACB file is required.)"
+msgstr "Remove ACB data from the uasset. (To use this uasset, external ACB file is required.)"
+
+#. Key:	CreateANewObject
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomFactory.cpp:189
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomFactory.cpp:189
+msgctxt "AtomFactory"
+msgid "Create a new object"
+msgstr "Create a new object"
+
+#. Key:	DirectionFocusLevel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:83
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:83
+msgctxt "AtomListenerFocusPoint"
+msgid "Direction Focus Level"
+msgstr "Direction Focus Level"
+
+#. Key:	DirectionFocusLevelTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:84
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:84
+msgctxt "AtomListenerFocusPoint"
+msgid "Direction focus level."
+msgstr "Direction focus level."
+
+#. Key:	DistanceFocusLevel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:79
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:79
+msgctxt "AtomListenerFocusPoint"
+msgid "Distance Focus Level"
+msgstr "Distance Focus Level"
+
+#. Key:	DistanceFocusLevelTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:80
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:80
+msgctxt "AtomListenerFocusPoint"
+msgid "Distance focus level."
+msgstr "Distance focus level."
+
+#. Key:	UAtomListenerFocusPoint
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:73
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomListenerFocusPoint.cpp:73
+msgctxt "AtomListenerFocusPoint"
+msgid "AtomListenerFocusPoint class."
+msgstr "AtomListenerFocusPoint class."
+
+#. Key:	AAtomSound
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSound.cpp:77
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSound.cpp:77
+msgctxt "AtomSound"
+msgid "AtomSound class."
+msgstr "AtomSound class."
+
+#. Key:	AtomComponent
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSound.cpp:83
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSound.cpp:83
+msgctxt "AtomSound"
+msgid "Atom Component"
+msgstr "Atom Component"
+
+#. Key:	AtomComponentTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSound.cpp:84
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSound.cpp:84
+msgctxt "AtomSound"
+msgid "Atom component."
+msgstr "Atom component to playback."
+
+#. Key:	AAtomSoundData
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundData.cpp:72
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundData.cpp:72
+msgctxt "AtomSoundData"
+msgid "AtomSoundData class."
+msgstr "AtomSoundData class."
+
+#. Key:	CueSheet
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundData.cpp:78
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundData.cpp:78
+msgctxt "AtomSoundData"
+msgid "Cue Sheet"
+msgstr "Cue Sheet"
+
+#. Key:	CueSheetTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundData.cpp:79
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundData.cpp:79
+msgctxt "AtomSoundData"
+msgid "Cue sheet."
+msgstr "Cue sheet."
+
+#. Key:	EnableCategoryCueLimitScope
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:82
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:82
+msgctxt "AtomSoundObject"
+msgid "Enable Category Cue Limit Scope"
+msgstr "Enable Category Cue Limit Scope"
+
+#. Key:	EnableCategoryCueLimitScopeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:83
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:83
+msgctxt "AtomSoundObject"
+msgid "Enable category Cue limit scope."
+msgstr "Enable category Cue limit scope."
+
+#. Key:	EnableVoiceLimitScope
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:78
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:78
+msgctxt "AtomSoundObject"
+msgid "Enable Voice Limit Scope"
+msgstr "Enable Voice Limit Scope"
+
+#. Key:	EnableVoiceLimitScopeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:79
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:79
+msgctxt "AtomSoundObject"
+msgid "Enable voice limit scope."
+msgstr "Enable voice limit scope."
+
+#. Key:	UAtomSoundObject
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:72
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomSoundObject.cpp:72
+msgctxt "AtomSoundObject"
+msgid "AtomSoundObject class."
+msgstr "AtomSoundObject class."
+
+#. Key:	PauseAudioOutput()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:84
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:84
+msgctxt "AtomStatics"
+msgid "Pause audio output."
+msgstr "Pause audio output."
+
+#. Key:	PlaySoundAtLocation()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:78
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:78
+msgctxt "AtomStatics"
+msgid "Play sound at location."
+msgstr "Play sound at location."
+
+#. Key:	PlaySoundAttached()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:81
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:81
+msgctxt "AtomStatics"
+msgid "Play sound attached."
+msgstr "Play sound attached."
+
+#. Key:	UAtomComponent
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:72
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomStatics.cpp:72
+msgctxt "AtomStatics"
+msgid "AtomComponent class."
+msgstr "AtomComponent class."
+
+#. Key:	FAtomTriggerRow
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:79
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:79
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "AtomTriggerRow struct."
+msgstr "AtomTriggerRow struct."
+
+#. Key:	FAtomTriggerRow.Bone
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:89
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:89
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "Bone"
+msgstr "Bone"
+
+#. Key:	FAtomTriggerRow.BoneTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:90
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:90
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "Bone."
+msgstr "Position where the sound is emitted."
+
+#. Key:	FAtomTriggerRow.Cue
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:93
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:93
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "Cue"
+msgstr "Cue"
+
+#. Key:	FAtomTriggerRow.CueTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:94
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:94
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "Cue."
+msgstr "Cue asset that is triggered."
+
+#. Key:	FAtomTriggerRow.Time
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:85
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:85
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	FAtomTriggerRow.TimeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:86
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/AtomTriggerTableFunctionLibrary.cpp:86
+msgctxt "AtomTriggerTableFunctionLibrary"
+msgid "Time."
+msgstr "Time when the Cue asset is triggered."
+
+#. Key:	NoSoundAsset
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/ActorFactoryAtomSound.cpp:80
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/ActorFactoryAtomSound.cpp:80
+msgctxt "CanCreateActor"
+msgid "A valid sound asset must be specified."
+msgstr "A valid sound asset must be specified."
+
+#. Key:	Title
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:324
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:324
+msgctxt "CriWare.CheckDeleteFile"
+msgid "Check Delete File"
+msgstr "Check Delete File"
+
+#. Key:	CancelButton
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:125
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:125
+msgctxt "CriWare.CheckPanel"
+msgid "Cancel"
+msgstr "Cancel"
+
+#. Key:	DeleteListDescWarning
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:96
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:96
+msgctxt "CriWare.CheckPanel"
+msgid "The Convert operation will delete the above config files."
+msgstr "The Convert operation will delete the above config files."
+
+#. Key:	AtomMenu
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:330
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:330
+msgctxt "CriWareEditorModule"
+msgid "Atom"
+msgstr "Atom"
+
+#. Key:	CriWareCategoryHeader
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:604
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:604
+msgctxt "CriWareEditorModule"
+msgid "Plugins - CriWare"
+msgstr "Plugins - CriWare"
+
+#. Key:	ExportAtomTriggerTable
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:338
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:338
+msgctxt "CriWareEditorModule"
+msgid "Export Atom Trigger Table"
+msgstr "Export Atom Trigger Table"
+
+#. Key:	ExportAtomTriggerTableDialogTitle
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:484
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:484
+msgctxt "CriWareEditorModule"
+msgid "Choose Location for Data Table Asset"
+msgstr "Choose Location for Data Table Asset"
+
+#. Key:	ExportAtomTriggerTableTip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:339
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:339
+msgctxt "CriWareEditorModule"
+msgid "Export Atom Triggers to DataTable asset."
+msgstr "Export Atom Triggers to DataTable asset."
+
+#. Key:	ImportAtomTriggerTable
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:333
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:333
+msgctxt "CriWareEditorModule"
+msgid "Import Atom Trigger Table"
+msgstr "Import Atom Trigger Table"
+
+#. Key:	ImportAtomTriggerTableTip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:334
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:334
+msgctxt "CriWareEditorModule"
+msgid "Import Atom Triggers from DataTable asset."
+msgstr "Import Atom Triggers from DataTable asset."
+
+#. Key:	MetaSettingDisplayStringModified
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:123
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:123
+msgctxt "CriWareEditorModule"
+msgid "{SettingName} is {SettingValue} <HardwareTargets.Strong>(modified)</>"
+msgstr "{SettingName} is {SettingValue} <HardwareTargets.Strong>(modified)</>"
+
+#. Key:	MetaSettingDisplayStringUnmodified
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:124
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:124
+msgctxt "CriWareEditorModule"
+msgid "{SettingName} is {SettingValue}"
+msgstr "{SettingName} is {SettingValue}"
+
+#. Key:	NotPending
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:163
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:163
+msgctxt "CriWareEditorModule"
+msgid "not pending"
+msgstr "not pending"
+
+#. Key:	OpenAnimSequenceDialogTitle
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:354
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:354
+msgctxt "CriWareEditorModule"
+msgid "Open Animation Sequence"
+msgstr "Open Animation Sequence"
+
+#. Key:	OpenAtomTriggerTableDialogTitle
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:372
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:372
+msgctxt "CriWareEditorModule"
+msgid "Open Atom Trigger Table"
+msgstr "Open Atom Trigger Table"
+
+#. Key:	Pending
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:163
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:163
+msgctxt "CriWareEditorModule"
+msgid "pending"
+msgstr "pending"
+
+#. Key:	RuntimeSettingsDescription
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:564
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:564
+msgctxt "CriWareEditorModule"
+msgid "Configure the CRIWARE plugin"
+msgstr "Configure the CRIWARE plugin"
+
+#. Key:	RuntimeSettingsName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:563
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWareEditorModule.cpp:563
+msgctxt "CriWareEditorModule"
+msgid "CriWare"
+msgstr "CriWare"
+
+#. Key:	FailedToMarkForAddConfigFileError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/CriWareInitializer.cpp:580
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/CriWareInitializer.cpp:580
+msgctxt "CriWareInitializer"
+msgid "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/"
+msgstr "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/"
+
+#. Key:	UCriWareInitializer
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/CriWareInitializer.cpp:309
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/CriWareInitializer.cpp:309
+msgctxt "CriWareInitializer"
+msgid "CriWareInitializer class."
+msgstr "CriWareInitializer class."
+
+#. Key:	AcfFileNameTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:98
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:98
+msgctxt "CriWarePluginSettings"
+msgid "ACF file name."
+msgstr "ACF file name."
+
+#. Key:	bNoExistCriWareIniTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:32
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:32
+msgctxt "CriWarePluginSettings"
+msgid "Not existing: checked, existing: unchecked."
+msgstr "Not existing: checked, existing: unchecked."
+
+#. Key:	ConfigFileMarkedForDeleteError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:784
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:784
+msgctxt "CriWarePluginSettings"
+msgid "Error: The configuration file is marked for deletion."
+msgstr "Error: The configuration file is marked for deletion."
+
+#. Key:	ContentDirTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:35
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:35
+msgctxt "CriWarePluginSettings"
+msgid "Contents directory."
+msgstr "Contents directory."
+
+#. Key:	DistanceFactorTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:101
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:101
+msgctxt "CriWarePluginSettings"
+msgid "Atom distance factor."
+msgstr "Atom distance factor."
+
+#. Key:	EnableDecodeSkipTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:119
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:119
+msgctxt "CriWarePluginSettings"
+msgid "Enable decode skipping."
+msgstr "Enable decode skipping."
+
+#. Key:	FailedToCheckOutConfigFileError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:798
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:798
+msgctxt "CriWarePluginSettings"
+msgid "Error: Failed to check out the configuration file."
+msgstr "Error: Failed to check out the configuration file."
+
+#. Key:	FailedToMarkForAddConfigFileError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:819
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:819
+msgctxt "CriWarePluginSettings"
+msgid "Error: Failed to Mark For Add the configuration file."
+msgstr "Error: Failed to Mark For Add the configuration file."
+
+#. Key:	FailedToRewriteCriWareIniError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:839
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:839
+msgctxt "CriWarePluginSettings"
+msgid "Error: Failed to delete CriWare.ini! CRIWARE configuration file comes with read-Only attribute."
+msgstr "Error: Failed to delete CriWare.ini! CRIWARE configuration file comes with read-Only attribute."
+
+#. Key:	FailedToRewriteEngineIniError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:845
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:845
+msgctxt "CriWarePluginSettings"
+msgid "Error: Failed to rewrite Engine.ini! Engine configuration file comes with read-Only attribute."
+msgstr "Error: Failed to rewrite Engine.ini! Engine configuration file comes with read-Only attribute."
+
+#. Key:	FailedToRewriteEngineIniUnknownError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:860
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:860
+msgctxt "CriWarePluginSettings"
+msgid "Error: Failed to rewrite Engine.ini. Engine.ini file may be opend by other application."
+msgstr "Error: Failed to rewrite Engine.ini. Engine.ini file may be opend by other application."
+
+#. Key:	FailedToSyncConfigFileError
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:804
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:804
+msgctxt "CriWarePluginSettings"
+msgid "Error: Failed to sync the configuration file to head revision."
+msgstr "Error: Failed to sync the configuration file to head revision."
+
+#. Key:	InitializeManaTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:116
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:116
+msgctxt "CriWarePluginSettings"
+msgid "Initialize Mana."
+msgstr "Initialize Mana."
+
+#. Key:	MaxBindsTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:41
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:41
+msgctxt "CriWarePluginSettings"
+msgid "Maximum number of binds."
+msgstr "Maximum number of binds."
+
+#. Key:	MaxDecoderHandles
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:122
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:122
+msgctxt "CriWarePluginSettings"
+msgid "Max Decoder Handles."
+msgstr "Max Decoder Handles."
+
+#. Key:	MaxFilesTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:47
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:47
+msgctxt "CriWarePluginSettings"
+msgid "Maximum number of files."
+msgstr "Maximum number of files."
+
+#. Key:	MaxManaBPS
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:125
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:125
+msgctxt "CriWarePluginSettings"
+msgid "Max Mana BPS"
+msgstr "Max Mana BPS"
+
+#. Key:	MaxVirtualVoicesTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:71
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:71
+msgctxt "CriWarePluginSettings"
+msgid "Maximum number of virtual voices."
+msgstr "Maximum number of virtual voices."
+
+#. Key:	NumBindersTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:38
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:38
+msgctxt "CriWarePluginSettings"
+msgid "Number of binders."
+msgstr "Number of binders."
+
+#. Key:	NumLoadersTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:44
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:44
+msgctxt "CriWarePluginSettings"
+msgid "Number of loaders."
+msgstr "Number of loaders."
+
+#. Key:	NumStandardMemoryVoicesTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:80
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:80
+msgctxt "CriWarePluginSettings"
+msgid "Number of standard memory voices."
+msgstr "Number of standard memory voices."
+
+#. Key:	NumStandardStreamingVoicesTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:89
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:89
+msgctxt "CriWarePluginSettings"
+msgid "Number of standard streaming voices."
+msgstr "Number of standard streaming voices."
+
+#. Key:	OutputsLogAtomTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:77
+#. Key:	OutputsLogFileSystemTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:50
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:50
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:77
+msgctxt "CriWarePluginSettings"
+msgid "Enable log output."
+msgstr "Enable log output."
+
+#. Key:	PS4_DataDecompressionThreadAffinityMaskTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:56
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:56
+msgctxt "CriWarePluginSettings"
+msgid "PS4 data decompression thread affinity mask."
+msgstr "PS4 data decompression thread affinity mask."
+
+#. Key:	PS4_DataDecompressionThreadPriorityTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:65
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:65
+msgctxt "CriWarePluginSettings"
+msgid "PS4 data decompression thread priority."
+msgstr "PS4 data decompression thread priority."
+
+#. Key:	PS4_FileAccessThreadAffinityMaskTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:53
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:53
+msgctxt "CriWarePluginSettings"
+msgid "PS4 file access thread affinity mask."
+msgstr "PS4 file access thread affinity mask."
+
+#. Key:	PS4_FileAccessThreadPriorityTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:62
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:62
+msgctxt "CriWarePluginSettings"
+msgid "PS4 file access thread priority."
+msgstr "PS4 file access thread priority."
+
+#. Key:	PS4_MemoryFileSystemThreadAffinityMaskTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:59
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:59
+msgctxt "CriWarePluginSettings"
+msgid "PS4 memory file system thread affinity mask."
+msgstr "PS4 memory file system thread affinity mask."
+
+#. Key:	PS4_MemoryFileSystemThreadPriorityTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:68
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:68
+msgctxt "CriWarePluginSettings"
+msgid "PS4 memory file system thread priority."
+msgstr "PS4 memory file system thread priority."
+
+#. Key:	PS4_OutputThreadAffinityMaskTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:107
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:107
+msgctxt "CriWarePluginSettings"
+msgid "PS4 output thread affinity mask."
+msgstr "PS4 output thread affinity mask."
+
+#. Key:	PS4_OutputThreadPriorityTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:113
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:113
+msgctxt "CriWarePluginSettings"
+msgid "PS4 output thread priority."
+msgstr "PS4 output thread priority."
+
+#. Key:	PS4_ServerThreadAffinityMaskTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:104
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:104
+msgctxt "CriWarePluginSettings"
+msgid "PS4 server thread affinity mask."
+msgstr "PS4 server thread affinity mask."
+
+#. Key:	PS4_ServerThreadPriorityTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:110
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:110
+msgctxt "CriWarePluginSettings"
+msgid "PS4 server thread priority."
+msgstr "PS4 server thread priority."
+
+#. Key:	StandardMemoryVoiceNumChannelsTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:83
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:83
+msgctxt "CriWarePluginSettings"
+msgid "Number of channels of standard memory voice."
+msgstr "Number of channels of standard memory voice."
+
+#. Key:	StandardMemoryVoiceSamplingRateTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:86
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:86
+msgctxt "CriWarePluginSettings"
+msgid "Standard memory voice sampling rate."
+msgstr "The maximum sampling rate that can be played in memory playback for voice."
+
+#. Key:	StandardStreamingVoiceNumChannelsTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:92
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:92
+msgctxt "CriWarePluginSettings"
+msgid "Number of channels of standard streaming voice."
+msgstr "Number of channels of standard streaming voice."
+
+#. Key:	StandardStreamingVoiceSamplingRateTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:95
+msgctxt "CriWarePluginSettings"
+msgid "Standard streaming voice sampling rate."
+msgstr "Standard streaming voice sampling rate."
+
+#. Key:	UsesInGamePreviewTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:74
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettings.cpp:74
+msgctxt "CriWarePluginSettings"
+msgid "Uses In-Game-Preview."
+msgstr "Uses In-Game-Preview."
+
+#. Key:	CategoryHeaderTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:231
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:231
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "List of properties modified in this project setting category"
+msgstr "List of properties modified in this project setting category"
+
+#. Key:	ConvertMessage
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:487
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:487
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "The current configuration file must be converted to the new format.\n\nYou cannot edit the parameter while the old format file is existing.\nWhen you push the button, Old format file will be deleted, and UnrealEditor will be restarted."
+msgstr "The current configuration file must be converted to the new format.\n\nYou cannot edit the parameter while the old format file is existing.\nWhen you push the button, Old format file will be deleted, and UnrealEditor will be restarted."
+
+#. Key:	ConvertNow
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:496
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:496
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "Convert Now"
+msgstr "Convert Now"
+
+#. Key:	ErrorMessage
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:541
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:541
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/\n"
+msgstr "CRIWARE Plugin Error:\nBoth new and old format settings was found in configuration files.\nPlease follow this instructions to initialize CRIWARE plugin correctly.\n\nIn order to use the new format:\n1. Delete old configuration files (*CriWare.ini).\n\nIn order to use the old format:\n1. Open new configuration file (*Engine.ini) by text editor.\n2. Remove section [/Script/CriWareEditor.CriWarePluginSettings].\n\n[Appendix]\nConfiguration files will be in the following directories:\n- Engine/Config/\n- Engine/Platform/\n- [ProjectDir]/Config/\n- [ProjectDir]/Config/[Platform]/\n"
+
+#. Key:	FileColumnLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:63
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:63
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "File"
+msgstr "File"
+
+#. Key:	NotRestartMessage
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:457
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:457
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "No parameter is changed."
+msgstr "No parameter is changed."
+
+#. Key:	RestartMessage
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:409
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:409
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "Unreal Editor must be restarted for the parameter changes to take effect."
+msgstr "Unreal Editor must be restarted for the parameter changes to take effect."
+
+#. Key:	RestartNow
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:424
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:424
+msgctxt "FCriWarePluginSettingsDetails"
+msgid "Restart Now"
+msgstr "Restart Now"
+
+#. Key:	bLoop
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:96
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:96
+msgctxt "ManaComponent"
+msgid "Loop"
+msgstr "Loop"
+
+#. Key:	bLoopTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:97
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:97
+msgctxt "ManaComponent"
+msgid "Enable looping of the movie."
+msgstr "Enable looping of the movie."
+
+#. Key:	GetTime()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:121
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:121
+msgctxt "ManaComponent"
+msgid "Get current playback time."
+msgstr "Get current playback time. Time is in seconds."
+
+#. Key:	GetVolume()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:118
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:118
+msgctxt "ManaComponent"
+msgid "Get current volume."
+msgstr "Get the output sound volume of main audio track in the movie. Range is 0.0 - 1.0."
+
+#. Key:	Movie
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:100
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:100
+msgctxt "ManaComponent"
+msgid "MovieTexture"
+msgstr "MovieTexture"
+
+#. Key:	MovieTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:101
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:101
+msgctxt "ManaComponent"
+msgid "Movie texture."
+msgstr "Movie texture."
+
+#. Key:	Play()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:109
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:109
+msgctxt "ManaComponent"
+msgid "Start playing."
+msgstr "Allocate resources necessary to play the movie, then start playing."
+
+#. Key:	SetVolume()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:115
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:115
+msgctxt "ManaComponent"
+msgid "Set current volume."
+msgstr "Change the output sound volume of the main audio track in the movie. Range is 0.0 - 1.0."
+
+#. Key:	Stop()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:112
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:112
+msgctxt "ManaComponent"
+msgid "Stop playing."
+msgstr "Stop playing the movie, then release the resources needed to play."
+
+#. Key:	UManaComponent
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:90
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaComponent.cpp:90
+msgctxt "ManaComponent"
+msgid "ManaComponent class."
+msgstr "ManaComponent class."
+
+#. Key:	FManaVideoTrackInfo
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:101
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:101
+msgctxt "ManaTexture"
+msgid "ManaVideoTrackInfo struct."
+msgstr "ManaVideoTrackInfo struct."
+
+#. Key:	FManaVideoTrackInfo.bIsAlphaMovie
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:123
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:123
+msgctxt "ManaTexture"
+msgid "Is Alpha Movie"
+msgstr "Is Alpha Movie"
+
+#. Key:	FManaVideoTrackInfo.bIsAlphaMovieTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:124
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:124
+msgctxt "ManaTexture"
+msgid "Enable alpha movie."
+msgstr "Enable alpha (transparency) movie."
+
+#. Key:	FManaVideoTrackInfo.DisplayDimension
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:111
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:111
+msgctxt "ManaTexture"
+msgid "Display Dimension"
+msgstr "Display Dimension"
+
+#. Key:	FManaVideoTrackInfo.DisplayDimensionTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:112
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:112
+msgctxt "ManaTexture"
+msgid "Display dimension."
+msgstr "Horizontal and vertical size of the image to be displayed."
+
+#. Key:	FManaVideoTrackInfo.FrameRate
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:115
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:115
+msgctxt "ManaTexture"
+msgid "Frame Rate"
+msgstr "Frame Rate"
+
+#. Key:	FManaVideoTrackInfo.FrameRateTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:116
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:116
+msgctxt "ManaTexture"
+msgid "Frame rate."
+msgstr "The number of frames per second."
+
+#. Key:	FManaVideoTrackInfo.TextureDimension
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:107
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:107
+msgctxt "ManaTexture"
+msgid "Texture Dimension"
+msgstr "Texture Dimension"
+
+#. Key:	FManaVideoTrackInfo.TextureDimensionTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:108
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:108
+msgctxt "ManaTexture"
+msgid "Texture dimension."
+msgstr "The maximum horizontal and vertical size of the movie (in multiples of 8)."
+
+#. Key:	FManaVideoTrackInfo.TotalFrames
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:119
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:119
+msgctxt "ManaTexture"
+msgid "Total Frames"
+msgstr "Total Frames"
+
+#. Key:	FManaVideoTrackInfo.TotalFramesTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:120
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:120
+msgctxt "ManaTexture"
+msgid "Total frames."
+msgstr "The total number of frames."
+
+#. Key:	MovieFilePath
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:199
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:199
+msgctxt "ManaTexture"
+msgid "Movie File Path"
+msgstr "Movie File Path"
+
+#. Key:	MovieFilePathTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:200
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:200
+msgctxt "ManaTexture"
+msgid "Movie file path."
+msgstr "Relative path to the USM file."
+
+#. Key:	UManaTexture
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:193
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:193
+msgctxt "ManaTexture"
+msgid "ManaTexture class."
+msgstr "ManaTexture class."
+
+#. Key:	VideoTrackInfo
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:203
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:203
+msgctxt "ManaTexture"
+msgid "Video Track Info"
+msgstr "Video Track Info"
+
+#. Key:	VideoTrackInfoTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:204
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/ManaTexture.cpp:204
+msgctxt "ManaTexture"
+msgid "Video track info."
+msgstr "Video track information."
+
+#. Key:	CueId
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomCueIdHelper.cpp:84
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomCueIdHelper.cpp:84
+msgctxt "Matinee.Popups"
+msgid "Cue ID"
+msgstr "Cue ID"
+
+#. Key:	CueName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomCueNameHelper.cpp:84
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomCueNameHelper.cpp:84
+msgctxt "Matinee.Popups"
+msgid "Cue Name"
+msgstr "Cue Name"
+
+#. Key:	SelectorLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomSelectorLabelHelper.cpp:84
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomSelectorLabelHelper.cpp:84
+msgctxt "Matinee.Popups"
+msgid "Selector Label Name"
+msgstr "Selector Label Name"
+
+#. Key:	AisacList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:120
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:120
+msgctxt "MatineeTrackAtom"
+msgid "AISAC List"
+msgstr "AISAC List"
+
+#. Key:	AisacListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:121
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:121
+msgctxt "MatineeTrackAtom"
+msgid "AISAC list."
+msgstr "List of AISAC control name."
+
+#. Key:	FAtomTrackKeyframe.Cue
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:98
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:98
+msgctxt "MatineeTrackAtom"
+msgid "Cue"
+msgstr "Cue"
+
+#. Key:	FAtomTrackKeyframe.CueTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:99
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:99
+msgctxt "MatineeTrackAtom"
+msgid "Cue."
+msgstr "Cue to play at this Key-Frame."
+
+#. Key:	FAtomTrackKeyframe.Time
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:94
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:94
+msgctxt "MatineeTrackAtom"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	FAtomTrackKeyframe.TimeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:95
+msgctxt "MatineeTrackAtom"
+msgid "Time."
+msgstr "Time to trigger the key."
+
+#. Key:	KeyframeList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:128
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:128
+msgctxt "MatineeTrackAtom"
+msgid "Keyframe List"
+msgstr "Keyframe List"
+
+#. Key:	KeyframeListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:129
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:129
+msgctxt "MatineeTrackAtom"
+msgid "Keyframe list."
+msgstr "List of Key-Frame of the track."
+
+#. Key:	SelectorList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:124
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:124
+msgctxt "MatineeTrackAtom"
+msgid "Selector List"
+msgstr "Selector List"
+
+#. Key:	SelectorListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:125
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtom.cpp:125
+msgctxt "MatineeTrackAtom"
+msgid "Selector list."
+msgstr "List of selector names."
+
+#. Key:	bEnableVolumeTrack
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:95
+msgctxt "MatineeTrackAtomCategoryName"
+msgid "Enable Volume Track"
+msgstr "Enable Volume Track"
+
+#. Key:	bEnableVolumeTrackTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:96
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:96
+msgctxt "MatineeTrackAtomCategoryName"
+msgid "Enable volume track."
+msgstr "Enable creation of a track to control the category volume."
+
+#. Key:	CategoryName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:91
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:91
+msgctxt "MatineeTrackAtomCategoryName"
+msgid "Category Name"
+msgstr "Category Name"
+
+#. Key:	CategoryNameTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:92
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCategoryName.cpp:92
+msgctxt "MatineeTrackAtomCategoryName"
+msgid "Category name."
+msgstr "The name of the category to use for this track."
+
+#. Key:	AisacList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:119
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:119
+msgctxt "MatineeTrackAtomCueId"
+msgid "AISAC List"
+msgstr "AISAC List"
+
+#. Key:	AisacListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:120
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:120
+msgctxt "MatineeTrackAtomCueId"
+msgid "AISAC list."
+msgstr "List of AISAC control name."
+
+#. Key:	CueSheet
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:127
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:127
+msgctxt "MatineeTrackAtomCueId"
+msgid "Cue Sheet"
+msgstr "Cue Sheet"
+
+#. Key:	CueSheetTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:128
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:128
+msgctxt "MatineeTrackAtomCueId"
+msgid "Cue sheet."
+msgstr "Cue sheet to be used in the track."
+
+#. Key:	FAtomCueIdTrackKeyframe.CueId
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:98
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:98
+msgctxt "MatineeTrackAtomCueId"
+msgid "Cue ID"
+msgstr "Cue ID"
+
+#. Key:	FAtomCueIdTrackKeyframe.CueIdTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:99
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:99
+msgctxt "MatineeTrackAtomCueId"
+msgid "Cue ID."
+msgstr "Cue ID to play at this Key-Frame."
+
+#. Key:	FAtomCueIdTrackKeyframe.Time
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:94
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:94
+msgctxt "MatineeTrackAtomCueId"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	FAtomCueIdTrackKeyframe.TimeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:95
+msgctxt "MatineeTrackAtomCueId"
+msgid "Time."
+msgstr "Time to trigger the key."
+
+#. Key:	KeyframeList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:131
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:131
+msgctxt "MatineeTrackAtomCueId"
+msgid "Keyframe List"
+msgstr "Keyframe List"
+
+#. Key:	KeyframeListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:132
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:132
+msgctxt "MatineeTrackAtomCueId"
+msgid "Keyframe list."
+msgstr "List of Key-Frame of the track."
+
+#. Key:	SelectorList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:123
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:123
+msgctxt "MatineeTrackAtomCueId"
+msgid "Selector List"
+msgstr "Selector List"
+
+#. Key:	SelectorListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:124
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueId.cpp:124
+msgctxt "MatineeTrackAtomCueId"
+msgid "Selector list."
+msgstr "List of selector names."
+
+#. Key:	AisacList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:119
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:119
+msgctxt "MatineeTrackAtomCueName"
+msgid "AISAC List"
+msgstr "AISAC List"
+
+#. Key:	AisacListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:120
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:120
+msgctxt "MatineeTrackAtomCueName"
+msgid "AISAC list."
+msgstr "List of AISAC control name."
+
+#. Key:	CueSheet
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:127
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:127
+msgctxt "MatineeTrackAtomCueName"
+msgid "Cue Sheet"
+msgstr "Cue Sheet"
+
+#. Key:	CueSheetTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:128
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:128
+msgctxt "MatineeTrackAtomCueName"
+msgid "Cue sheet."
+msgstr "Cue sheet to be used in the track."
+
+#. Key:	FAtomCueNameTrackKeyframe.CueName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:98
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:98
+msgctxt "MatineeTrackAtomCueName"
+msgid "Cue Name"
+msgstr "Cue Name"
+
+#. Key:	FAtomCueNameTrackKeyframe.CueNameTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:99
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:99
+msgctxt "MatineeTrackAtomCueName"
+msgid "Cue name."
+msgstr "Cue name to play at this Key-Frame."
+
+#. Key:	FAtomCueNameTrackKeyframe.Time
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:94
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:94
+msgctxt "MatineeTrackAtomCueName"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	FAtomCueNameTrackKeyframe.TimeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:95
+msgctxt "MatineeTrackAtomCueName"
+msgid "Time."
+msgstr "Time to trigger the key."
+
+#. Key:	KeyframeList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:131
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:131
+msgctxt "MatineeTrackAtomCueName"
+msgid "Keyframe List"
+msgstr "Keyframe List"
+
+#. Key:	KeyframeListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:132
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:132
+msgctxt "MatineeTrackAtomCueName"
+msgid "Keyframe list."
+msgstr "List of Key-Frame of the track."
+
+#. Key:	SelectorList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:123
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:123
+msgctxt "MatineeTrackAtomCueName"
+msgid "Selector List"
+msgstr "Selector List"
+
+#. Key:	SelectorListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:124
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomCueName.cpp:124
+msgctxt "MatineeTrackAtomCueName"
+msgid "Selector list."
+msgstr "List of selector names."
+
+#. Key:	MatineeSoundAtomCuePicker
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomHelper.cpp:98
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/MatineeTrackAtomHelper.cpp:98
+msgctxt "MatineeTrackAtomHelper"
+msgid "Browse"
+msgstr "Browse"
+
+#. Key:	FAtomSelectorTrackKeyframe.SelectorLabel
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:94
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:94
+msgctxt "MatineeTrackAtomSelector"
+msgid "Selector Label"
+msgstr "Selector Label"
+
+#. Key:	FAtomSelectorTrackKeyframe.SelectorLabelTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:95
+msgctxt "MatineeTrackAtomSelector"
+msgid "Selector label."
+msgstr "Selector label to set at this Key-Frame."
+
+#. Key:	FAtomSelectorTrackKeyframe.Time
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:90
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:90
+msgctxt "MatineeTrackAtomSelector"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	FAtomSelectorTrackKeyframe.TimeTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:91
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:91
+msgctxt "MatineeTrackAtomSelector"
+msgid "Time."
+msgstr "Time to trigger the key."
+
+#. Key:	KeyframeList
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:115
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:115
+msgctxt "MatineeTrackAtomSelector"
+msgid "Keyframe List"
+msgstr "Keyframe List"
+
+#. Key:	KeyframeListTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:116
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/MatineeTrackAtomSelector.cpp:116
+msgctxt "MatineeTrackAtomSelector"
+msgid "Keyframe list."
+msgstr "List of Key-Frame of the track."
+
+#. Key:	AcfFilePath
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomConfig.cpp:78
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomConfig.cpp:78
+msgctxt "SoundAtomConfig"
+msgid "ACF File Path"
+msgstr "ACF File Path"
+
+#. Key:	AcfFilePathTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomConfig.cpp:79
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomConfig.cpp:79
+msgctxt "SoundAtomConfig"
+msgid "ACF file path."
+msgstr "ACF file path."
+
+#. Key:	USoundAtomConfig
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomConfig.cpp:72
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomConfig.cpp:72
+msgctxt "SoundAtomConfig"
+msgid "SoundAtomConfig class."
+msgstr "SoundAtomConfig class."
+
+#. Key:	CueSheet
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:99
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:99
+msgctxt "SoundAtomCue"
+msgid "Cue Sheet"
+msgstr "Cue Sheet"
+
+#. Key:	CueSheetName
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:95
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:95
+msgctxt "SoundAtomCue"
+msgid "Cue Sheet Name"
+msgstr "Cue Sheet Name"
+
+#. Key:	CueSheetNameTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:96
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:96
+msgctxt "SoundAtomCue"
+msgid "Cue sheet name."
+msgstr "Cue sheet name.\nRemarks: Not used in current version (maintained for compatibility)."
+
+#. Key:	CueSheetTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:100
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:100
+msgctxt "SoundAtomCue"
+msgid "Cue sheet."
+msgstr "Cue sheet object."
+
+#. Key:	USoundAtomCue
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:89
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCue.cpp:89
+msgctxt "SoundAtomCue"
+msgid "SoundAtomCue class."
+msgstr "SoundAtomCue class."
+
+#. Key:	AcbFilePath
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:92
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:92
+msgctxt "SoundAtomCueSheet"
+msgid "ACB File Path"
+msgstr "ACB File Path"
+
+#. Key:	AcbFilePathTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:93
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:93
+msgctxt "SoundAtomCueSheet"
+msgid "ACB file path."
+msgstr "ACB file path."
+
+#. Key:	AttachDspBusSetting()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:107
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:107
+msgctxt "SoundAtomCueSheet"
+msgid "Attach DSP bus setting."
+msgstr "Enabling the DSP bus setting."
+
+#. Key:	Contains
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:88
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:88
+msgctxt "SoundAtomCueSheet"
+msgid "Is ACB data contained"
+msgstr "Is ACB data contained"
+
+#. Key:	ContainsTooltip
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:89
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:89
+msgctxt "SoundAtomCueSheet"
+msgid "Is ACB data contained."
+msgstr "Whether ACB data is included in the uasset."
+
+#. Key:	DetachDspBusSetting()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:110
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:110
+msgctxt "SoundAtomCueSheet"
+msgid "Detach DSP bus setting."
+msgstr "Disabling the DSP bus setting."
+
+#. Key:	LoadAcb()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:101
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:101
+msgctxt "SoundAtomCueSheet"
+msgid "Load ACB."
+msgstr "Load ACB."
+
+#. Key:	ReleaseAcb()
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:104
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:104
+msgctxt "SoundAtomCueSheet"
+msgid "Release ACB."
+msgstr "Release ACB."
+
+#. Key:	USoundAtomCueSheet
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:82
+#: Plugins/Runtime/CriWare/Source/CriWareRuntime/Private/SoundAtomCueSheet.cpp:82
+msgctxt "SoundAtomCueSheet"
+msgid "SoundAtomCueSheet class."
+msgstr "SoundAtomCueSheet class."
+
+#. Key:	OKButton
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:116
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/CriWarePluginSettingsDetails.cpp:116
+msgctxt "SourceControl.CheckPanel"
+msgid "OK"
+msgstr "OK"
+
+#. Key:	Error_AssetExist
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomFactory.cpp:197
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomFactory.cpp:197
+msgctxt "UnrealEd"
+msgid "Asset with same name exists. Can't overwrite another asset"
+msgstr "Asset with same name exists. Can't overwrite another asset"
+
+#. Key:	Error_ImportFailed_f
+#. SourceLocation:	Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomFactory.cpp:226
+#: Plugins/Runtime/CriWare/Source/CriWareEditor/Private/AtomFactory.cpp:226
+msgctxt "UnrealEd"
+msgid "Import failed for {0}"
+msgstr "Import failed for {0}"
+

@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.REDAnimationNode.cpp.obj": [
+			"AnimNode_AnimDynamicsRedCustom.cpp.obj",
+			"AnimNode_RigidBodyRedCustom.cpp.obj",
+			"AnimNode_RigidBodyRedCustomInterpolateInfo.cpp.obj",
+			"AnimNode_RigidBodyWithIdling.cpp.obj",
+			"REDAnimationNodeModule.cpp.obj"
+		],
+		"Module.REDAnimationNode.gen.cpp.obj": [
+			"AnimNode_AnimDynamicsRedCustom.gen.cpp.obj",
+			"AnimNode_RigidBodyRedCustom.gen.cpp.obj",
+			"AnimNode_RigidBodyRedCustomInterpolateInfo.gen.cpp.obj",
+			"AnimNode_RigidBodyWithIdling.gen.cpp.obj",
+			"REDAnimationNode.init.gen.cpp.obj"
+		]
+	}
+}

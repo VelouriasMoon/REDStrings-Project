@@ -1,0 +1,6 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "DynamicMaterialControllerComponentEndParameterFadeDelegateDelegate.generated.h"
+
+UDELEGATE(BlueprintAuthorityOnly, BlueprintCallable) DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FDynamicMaterialControllerComponentEndParameterFadeDelegate, FName, ParameterName);
+

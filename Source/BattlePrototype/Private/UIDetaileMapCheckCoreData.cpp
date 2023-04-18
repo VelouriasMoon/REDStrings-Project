@@ -1,0 +1,3 @@
+#include "UIDetaileMapCheckCoreData.h"
+
+

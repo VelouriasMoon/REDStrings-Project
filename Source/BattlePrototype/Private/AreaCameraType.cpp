@@ -1,0 +1,3 @@
+#include "AreaCameraType.h"
+
+

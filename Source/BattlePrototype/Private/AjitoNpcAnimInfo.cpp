@@ -1,0 +1,3 @@
+#include "AjitoNpcAnimInfo.h"
+
+

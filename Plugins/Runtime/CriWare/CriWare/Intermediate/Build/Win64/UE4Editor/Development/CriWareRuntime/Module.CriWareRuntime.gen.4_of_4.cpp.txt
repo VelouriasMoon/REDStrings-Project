@@ -1,0 +1,302 @@
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Development\CriWareRuntime\Definitions.CriWareRuntime.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/AtomTriggerTableFunctionLibrary.gen.cpp
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Classes/AtomTriggerTableFunctionLibrary.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\SoundAtomCue.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundConcurrency.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundConcurrency.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\SoundAtomCueSheet.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Public\CriWareApi.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.35.32213\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_adx2le.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_xpt.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_atom_ex.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_atom.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_file_system.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_error.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_atom_pc.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_atom_asr.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_atom_wasapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Audioclient.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\mmreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\AudioSessionTypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ks.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ksmedia.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\mmdeviceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propsys.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ocidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\StructuredQueryCondition.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propkeydef.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\ThirdParty\CriWare\cri\pc\include\cri_le_atom_ex_monitor.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomDataTables.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomDataTables.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\SoundAtomCueSheet.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\CriWarePluginSettings.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\CriWarePluginSettings.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\Atom3dRegion.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\Atom3dRegion.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\SoundAtomCue.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomTriggerTableFunctionLibrary.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/AtomUnrealSoundRenderer.gen.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Private/AtomUnrealSoundRenderer.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundBase.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundGroups.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveLoadingBehavior.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWave.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomUnrealSoundRenderer.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/AtomWavePlayer.gen.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Classes/AtomWavePlayer.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomWavePlayer.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/CriWareError.gen.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Classes/CriWareError.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\CriWareError.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/CriWareFunctionLibrary.gen.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Classes/CriWareFunctionLibrary.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\CriWareFunctionLibrary.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/CriWareInitializer.gen.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Classes/CriWareInitializer.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime/Engine/Classes/Components/BillboardComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime/Engine/Classes/Components/DrawSphereComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DrawSphereComponent.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomSoundObject.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomSoundObject.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomActiveSound.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound\ReverbSettings.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbSettings.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomPlaylist.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomListener.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomAudioVolume.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BrushComponent.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomAudioVolume.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomAudioVolumeHandlerForListener.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomListener.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomAudioVolumeHandler.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomAreaSoundVolume.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomAreaSoundVolume.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomCallbackManager.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomCallbackManager.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\AtomComponent.generated.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\AtomSoundConcurrency.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\CriWareMemory.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Classes\CriWarePlatform.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime\Public\CriWareRuntimeSubModules.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\CriWareInitializer.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/CriWarePluginSettings.gen.cpp
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/CriWareRuntime.init.gen.cpp
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/SoundAtomConfig.gen.cpp
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Source\CriWareRuntime/Classes/SoundAtomConfig.h
+D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UE4Editor\Inc\CriWareRuntime\SoundAtomConfig.generated.h
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/SoundAtomCue.gen.cpp
+D:/Downloads/Tools/ScarletNexus/REDStrings/REDStrings/Plugins/Runtime/CriWare/CriWare/Intermediate/Build/Win64/UE4Editor/Inc/CriWareRuntime/SoundAtomCueSheet.gen.cpp

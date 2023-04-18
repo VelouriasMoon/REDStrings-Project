@@ -1,0 +1,3 @@
+#include "WorldmapOpenAreaParam.h"
+
+

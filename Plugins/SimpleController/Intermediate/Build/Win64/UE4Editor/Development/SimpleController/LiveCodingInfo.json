@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleController.cpp.obj": [
+			"SimpleControllerBPLibrary.cpp.obj",
+			"SimpleControllerDevice.cpp.obj",
+			"SimpleControllerForceFeedbackEffect.cpp.obj",
+			"SimpleControllerModule.cpp.obj"
+		],
+		"Module.SimpleController.gen.cpp.obj": [
+			"ESimpleControllerButtons.gen.cpp.obj",
+			"ESimpleControllerDirectionalPad.gen.cpp.obj",
+			"ESimpleControllerDirectoryType.gen.cpp.obj",
+			"ESimpleControllerForceFeedbackDirectionType.gen.cpp.obj",
+			"ESimpleControllerForceFeedbackEffectConditionType.gen.cpp.obj",
+			"ESimpleControllerForceFeedbackEffectPeriodicType.gen.cpp.obj",
+			"ESimpleControllerForceFeedbackEffectType.gen.cpp.obj",
+			"SimpleController.init.gen.cpp.obj",
+			"SimpleControllerBPLibrary.gen.cpp.obj",
+			"SimpleControllerDevice.gen.cpp.obj",
+			"SimpleControllerForceFeedbackEffect.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NetCommon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\NetCommon\Intermediate\Build\Win64\UE4Editor\Development\NetCommon\Module.NetCommon.cpp.obj"
+"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\NetCommon\Intermediate\Build\Win64\UE4Editor\Development\NetCommon\Module.NetCommon.gen.cpp.obj"
+"D:\Games\UE_4.25.0_REDStrings\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Downloads\Tools\ScarletNexus\REDStrings\REDStrings\Plugins\NetCommon\Intermediate\Build\Win64\UE4Editor\Development\NetCommon\UE4Editor-NetCommon.lib"
+/INCLUDE:IMPLEMENT_MODULE_NetCommon
